@@ -1,0 +1,42 @@
+html {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+body {
+  width: 40em;
+  display: flex;
+  flex-direction: column;
+  background-color: #000051;
+  color: #b1b1c8;
+  
+  font-family: Monospace;
+  font-size: 1.5em;
+}
+
+header {
+  text-align: center;
+  
+}
+
+h1, h2, h3 {
+  color: #caca52;
+  font-family: Sans-Serif;
+}
+
+h3 {
+  margin-bottom: 1em;
+  margin-top: 3em;
+}
+
+ul {
+  list-style-type: none; /* Remove bullets */
+}
+
+li {
+  margin-bottom: 0.9em;
+}
+
