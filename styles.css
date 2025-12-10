@@ -20,7 +20,6 @@ body {
 
 header {
   text-align: center;
-  
 }
 
 h1, h2, h3 {
@@ -43,6 +42,10 @@ li {
 
 p {
   line-height: 2.6rem;
+}
+
+footer {
+  text-align: center;
 }
 
 .txt-bg {
